@@ -38,7 +38,8 @@ Dieses Repository umfasst alle wichtigen Infos sowie den Server und den Client f
     ssid=HOTRoad
     hw_mode=g
     channel=11
-    wpa=1 wpa_passphrase=himbeerkuchen
+    wpa=1 
+    wpa_passphrase=himbeerkuchen
     wpa_key_mgmt=WPA-PSK
     wpa_pairwise=TKIP CCMP
     wpa_ptk_rekey=600
